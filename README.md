@@ -1,5 +1,3 @@
-<samp>😄 .github/README.md</samp>
-
 <p align="center" >
   <img src="https://o.remove.bg/downloads/5eae0988-238f-48af-aebd-353b65061bde/menhera-kun-preview1-removebg-preview.png" style="height: 70px"><br>
   <samp>
