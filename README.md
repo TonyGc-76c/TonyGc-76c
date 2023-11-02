@@ -1,7 +1,7 @@
 <p align="center" >
   <img src="https://o.remove.bg/downloads/5eae0988-238f-48af-aebd-353b65061bde/menhera-kun-preview1-removebg-preview.png" style="height: 70px"><br>
   <samp>
-    👋 Hi I'm @TonyGc-76c.<br/>
+    👋 Hi, I'm @TonyGc-76c.<br/>
     My name is <em>Tony</em>, I'm a programming enthusiast... 💊 Insomnia pill.<br/>
     Software development lover... ☕ Coffee addict.<br/>
     (<em>ex</em>) 💻 About to finish my degree in Computer Systems Engineering.<br/>
