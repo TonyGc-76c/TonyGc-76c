@@ -1,5 +1,5 @@
 <p align="center" >
-  <img src="https://o.remove.bg/downloads/5eae0988-238f-48af-aebd-353b65061bde/menhera-kun-preview1-removebg-preview.png" style="height: 70px"><br>
+  <img src="https://github.com/TonyGc-76c/TonyGc-76c/assets/100632594/09dffae5-68b5-4316-93bc-98e7f8351d77" style="height: 70px"><br>
   <samp>
     👋 Hi, I'm @TonyGc-76c.<br/>
     My name is <em>Tony</em>, I'm a programming enthusiast... 💊 Insomnia pill.<br/>
